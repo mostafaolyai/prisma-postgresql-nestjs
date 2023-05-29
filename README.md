@@ -6,4 +6,4 @@
 //6.npm i @prisma/client
 //7.npx @nestjs/cli g service prisma
 //8.after add model => npx prisma generate
-//9.npx prisma studio
+//9.npx prisma studioee
